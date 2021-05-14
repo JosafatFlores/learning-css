@@ -1,0 +1,12 @@
+Display block: Completa la linea 
+In line block: So bloques que se ajustan al espacio
+
+
+Si un div tiene mas de 1 hijo con la misma clase y quiere afectar el pero con la siguiente propiedad se puede realizar
+.form__input: first-child{
+
+}
+
+.form__input--identificar_elemento{
+
+}

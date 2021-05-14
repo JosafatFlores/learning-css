@@ -1,0 +1,14 @@
+Metodoogia BEM
+
+las clases se nombra el padre por el contenedor y los hijos contenedor__tipo_atributo
+form__input
+
+doble guion bajo se utiliza por bloques
+guein medio por secciones
+
+<div class="form">
+     <p class="form__p">
+         <h2 class="form__p-h2">
+         </h2>
+     </p>
+ </div>

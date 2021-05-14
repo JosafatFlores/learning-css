@@ -1,0 +1,54 @@
+Enlazar CSS a HTML
+
+1.- En linea: Dentro de la etiqueta del elemento se agrega style="propiedades"
+2.- Etiqueta Style: Se crea la etiqueta <Style> y en su interior se hacen los estilos 
+3.- Archivo externo o Link: <Link rel="stylesheet" type="text/css" href="ubicacion del css">
+4.- import (No recomendable)
+
+    
+Estructura CSS
+
+selector {
+    propiedad: valor;
+}
+
+
+Tipos de selectores
+
+Universal: * Selecciona todos los elementos
+* {
+    color: red;
+}
+
+
+Tipos: Son los que selecciona por nombre de los elementos
+h1 {
+    color: red;
+}
+
+Clases: se agrega el al atributo class="nombre_clase"
+.nombre_clase{
+    color: red;
+}
+
+ID: Se agrega un atributo id="ID_elemento"
+#ID_elemento {
+    color: red;
+}
+
+Atributo: Se agrega el atributa a la etiqueta atributo="h2"
+[atributo="h2"] {
+    color: red;
+}
+
+Descendiente: Diseño para los elemetos adentro de otros elementos
+h2 p {
+    color: red;
+}
+
+Pseudo-clases: Son palabras clave que se le añaden a los atributos para un estado especial del elemento
+b:hover{
+    color: blue;
+}
+
+

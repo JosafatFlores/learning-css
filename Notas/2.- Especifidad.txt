@@ -1,0 +1,10 @@
+Orden de importancia sobre los estilos
+
+1.- !important
+2.- Estilos en linea
+3.- Identificadores
+4.- Clases
+5.- Pseudo-clases
+6.- atributos
+7.- elementos
+8.- Pseudo-elementos
