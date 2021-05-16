@@ -1,0 +1,16 @@
+Unidades de medidadas
+1.- Relativas: Son medidas cambiantes correspondientes al padre
+em
+1em = 16px
+"em" se puede cambiar el valor con el padre, propiedad font-size
+
+Estos dependen del tamaño de caja padre
+vw: Es el amcho de la ventana grafica
+vh: Es la altura de la ventana grafica
+
+2.- Fijas: Medidas que no cambian
+px - Pixeles
+cm - Centimetros
+mm - Milimetros
+pt - Puntos
+

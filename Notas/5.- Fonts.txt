@@ -1,0 +1,8 @@
+Propiedades de font
+font-size: 2em; -> Tamaño de la letra
+font-family: Tipografia; -> Tipo de letra
+line-height: 1.9; -> Tamano de la letra 1 = 100%
+font-weight: normal; -> El grosor de la letra, multiplos de 100
+
+Importar tipografrias
+En google fonts esta el Link al Css

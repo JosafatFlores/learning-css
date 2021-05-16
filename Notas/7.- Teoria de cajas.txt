@@ -1,0 +1,37 @@
+Hay 2 tipos de cajas en Css
+
+1.- En linea: el ancho es conforme al contenido
+Elementos en linea no se se les puede asignar una medidad
+
+2.- En bloque: Son las que forman bloques, siempre se ajustan al ancho de su contenedor.
+Elementos en bloque se puede asignar medidad
+
+Para que los contenidos cambien sus propiedad de boque o inline, se usa la propiedad Display
+
+Propiedades de cajas
+background-color -> Color de fondo
+padding: top left bottom right; -> Distancia entre el texto y la caja
+height -> Alto de la caja
+width -> Ancho de la caja
+box-sizing:
+    -> border-box -> respeta el tamaño de la caja con width y height
+    -> content-box -> respeta el tamaño de la caja con los elementos
+text-align:
+    -> center -> centra el texto horizontalmente
+margin: margenes entre las cajas
+border-radius -> Redondear las esquinas de la caja 50% para hacerlo circulo
+border: tamaño estilo color -> estilo para el contorno de la caja, estilos hay muchos asi que, googlearlo
+
+box-model: Como dar las propiedades, de interior al exterior
+    -> content
+    -> padding
+    -> border
+    -> margin
+
+box-shadow: ejeX ejeY tamaño_desenfoque borde color -> Sombra de las cajas
+
+text-shadow: ejeX ejeY borde color -> Sombra de los textos
+
+transform: rotate(grados deg); -> Propiedad para rotar elementos
+
+outline: medida -> Cumple la funcion del border, pero no se cuenta los pixeles

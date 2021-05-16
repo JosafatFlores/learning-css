@@ -1,0 +1,8 @@
+Se usa css mediante la descarga de NPM o el archivo o se puede utilizar por la URL.
+
+Funciona para reiniciar los estilos.
+
+1.- Agregar
+2.- Abrir normalize y a img agregar la propiedad max-height: 100%, esto para que moviles se vea correctamente.
+3.- A todos los elementos agregar la propiedad box-sizing: border-box, para respetar el tamaño de la caja
+4.- A todos los elementos agregar la propiedades margin: 0, padding: 0

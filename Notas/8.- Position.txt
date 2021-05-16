@@ -1,0 +1,24 @@
+Posiciona los Elementos
+
+Static -> Por defecto, no tiene propiedades
+
+Relative -> Conserva su espacio sin afectar los otros elementos, pero se mueve libremente.
+top es mas importante que bottom
+left es mas importante que right
+Propiedades:
+    -> top
+    -> left
+    -> right
+    -> bottom
+    -> z-index
+
+La manera de poner los padres por encima de los hijos, es a los hijos darle la propiedad z-index: -1,sin definir el
+z-index del padre
+
+Absolute -> Es lo mismo que relative, a diferencia que el espacion no se reserva y lo puedes colocar donde quieras
+dentro del contenedor o viewport
+Para que Absolute tome como referencia el contenerdor padre, el padre debe de estar posicionado
+
+Fixed
+
+Sticky

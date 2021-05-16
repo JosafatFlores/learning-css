@@ -1,0 +1,15 @@
+
+
+1.- Block -> Ocupan todo el ancho del contenedor o del viewport
+
+2.- inline -> Ocupan el tamaño del contenido
+
+3.- inline-block -> Se pueden dar el tamaño de las cajas y se pueden poner elementos aun lado del otros
+
+4.- Flex
+
+5.- Grid
+
+6.- inline-Flex
+
+7.- inline-grid
