@@ -1,0 +1,9 @@
+Se eventso a los elementos
+
+1.- hover -> Escucha los eventos cuando el puntero esta encima
+2.- link -> cambia la caracteristicas de los links cuando aun no han sido visitados
+3.- visited -> cambia la caracteristicas de los links cuando aun ya visitados
+4.- active -> cuando se presiona sobre un elemento se aplican las propiedades
+5.- focus -> Es para cuando un elementos esta en foco, uso por parte del usuario final
+6.- lang -> funciona para cambiar el idoma a un elemento, se le debe pasar el identificador del idioma lang(mx), hay
+    que dat la propiedad en el html tambien

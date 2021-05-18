@@ -1,0 +1,18 @@
+Es apra manipular como se visualiza una imagen
+
+1.- Fill -> Llena todo el espacion de la caja con la imagen
+2.- contain -> Mantiene las dimesiones de la imgen aunque la caja tenga diferentes
+3.- cover -> Corta la imagen para rellenar la caja y no perder las dimesiones
+4.- none -> La pone como guste, respeta medidas de orgininales de la imgen
+5.- scale-down -> Uso preferible para imagenes pequeñas, combinacion entre contain y none
+
+
+Object-position
+Para posicionar los elementos
+
+al cual se le pueden agregar medidas o por los siguientes atributos
+
+1.- top -> para mostrar la parte de arriba de la imagen
+2.- left -> para mostrar la parte de izquierda de la imagen
+3.- rigth -> para mostrar la parte de derecha de la imagen
+4.- bottom -> para mostrar la parte de abajo de la imagen

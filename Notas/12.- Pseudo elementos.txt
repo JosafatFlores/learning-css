@@ -1,0 +1,8 @@
+Es para hacer cambios visuales y no pertenecen al DOM
+
+1.- first-line -> No funciona en display: inline, funciona para cambiar el primer renglon de un texto
+2.- fitst-letter -> No funciona en display: inline, funciona para cambair la primera letra de un texto
+3.- placeholder -> Propiedades para el placeholder de un input de texto
+4.- selection -> Propiedad de cuando se selcciona un texto, como seria su apariencia
+5.- before -> son hijos del elemento de texto al cual le asignamos, lleva siempre la propiedad content el texto se agrega antes
+5.- after -> son hijos del elemento de texto al cual le asignamos, lleva siempre la propiedad content el texto se agrega despues

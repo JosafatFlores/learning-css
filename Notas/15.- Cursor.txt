@@ -1,0 +1,3 @@
+Se usa la propiedad curso
+
+http://w3.unpocodetodo.info/css3/cursor.php

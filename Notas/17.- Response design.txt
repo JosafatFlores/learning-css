@@ -1,0 +1,3 @@
+Es la manera de adaptar la pantalla a diferentes medidas de pantallas(web, tablet, mobile)
+
+First-mobile -> desarrollo primero en movil despues en web
