@@ -1,0 +1,8 @@
+Es la propiedad para que el contenido quede dentro de su caja y no se desborde
+
+1.- Inset: propiedad por defecto, se desborda el contenido
+2.- Auto: Detecta si el scroll es necesario, si lo es, agrega el scroll
+3.- Scroll: Agrega la interfaz de el scroll sea o no sea necesaria
+
+
+over flow con imagenes no funciona

@@ -4,26 +4,47 @@
     font-size: 30px;
 }
 
-div {
-    width: 120px;
-    height: 120px;
-    display: block;
-    background: yellow;
+.contenedor{
+
 }
 
-.caja1{
+.contenedor div {
+    display: inline-block;
+    width: 45%;
+}
+
+.primario{
     background: red;
 }
 
-.caja2{
+.secundario {
     background: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+.cont {
+    margin: auto;
+    margin-top: 50px;
+    width: 320px;
+    height: 350px;
+    border: 4px solid red;
+    background: gray;
+    overflow: auto;
+}
+
+.cont img{
+    width: 1000px;
     position: relative;
-}
-
-.caja3{
-    background: green;
-}
-
-.caja4{
-    background: blue;
+    top: 260px;
+    left: 240px;
+    outline: 2px solid blue;
 }
